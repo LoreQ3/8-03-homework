@@ -8,7 +8,8 @@
 
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
-
+![alt text](https://github.com/LoreQ3/8-03-homework/blob/main/1.png)
+![alt text](https://github.com/LoreQ3/8-03-homework/blob/main/2.png)
 
 Задание 2
 Что нужно сделать:
@@ -19,3 +20,5 @@
 
 файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне;
 скриншоты с успешно собранными сборками.
+
+![alt text](https://github.com/LoreQ3/8-03-homework/blob/main/3.png)
